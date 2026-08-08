@@ -1,3 +1,5 @@
+![image_alt]()
+
 # Excel
 
 A curated Excel repo with templates, dashboards, macros, VBA scripts, and Python automation using openpyxl & pandas. Covers formulas, pivot tables, data analysis, and reporting — built for students, analysts, and developers to streamline workflows and boost spreadsheet productivity.
